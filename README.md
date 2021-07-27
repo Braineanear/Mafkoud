@@ -200,7 +200,7 @@ Now you successfully have a deployed API.
 
 ## API Usage
 
-Check [Mafkoud API Documentation]() for more info.
+Check [Mafkoud API Documentation](https://documenter.getpostman.com/view/11050349/Tzm2HxUB) for more info.
 
 ## Built With
 
