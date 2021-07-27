@@ -6,6 +6,6 @@ import { cameraController } from '../controllers/index';
 
 const router = express.Router();
 
-router.route('/').post(cameraController);
+router.route('/').get(cameraController);
 
-export default router.route;
+export default router;
